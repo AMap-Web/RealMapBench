@@ -1,0 +1,1092 @@
+{
+  "blocked_count": 0,
+  "captured_at": "2026-09-02T05:36:00Z",
+  "dataset_id": "realmapbench",
+  "dataset_revision": "realmapbench-v1-public-72-r2",
+  "ok_count": 72,
+  "schema_version": "realmapbench.truth_snapshot.v1",
+  "snapshots": [
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-PL-001",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-PL-001",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "朝阳北路101号",
+      "value_hash": "a88264b7004537ea78a31fe47edd41a344e12f0ccf3dce970627b80747d2d2bd"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-PL-002",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-PL-002",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "西城区",
+      "value_hash": "f8fd24ead39e89257ced9e78579f629a77ac55d0b86e1562684eb0b211e0788a"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-PL-003",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-PL-003",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "杭州湖滨银泰 in77 的详细地址是延安路258号，所在行政区为上城区。",
+      "value_hash": "a2f0739012b984c23071bc3f405f79809a42ef41a23d92d17f9c77647a1e1295"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-PL-004",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-PL-004",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "罗湖区",
+      "value_hash": "242351c1dbb3cc742612c5f238ab3c88887736997c404d156a7f0552563a41d4"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-PL-005",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-PL-005",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "雁塔区",
+      "value_hash": "14a41af5d4229567641bcfa18ba576000896111968f78324411559937b4cdd78"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-PL-006",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-PL-006",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "中山路18号",
+      "value_hash": "5721c003c74786901d34ad8a0be43499ee28fc06ed094269f2f7a533ac63016a"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-001",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-001",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京朝阳大悦城主体中心点为圆心、直线半径500米的圆形范围内，霸王茶姬门店数量为1家。按POI ID计数，不做品牌归属剔除或合并；范围不是AOI边界。该数量仅反映冻结快照时点。",
+      "value_hash": "4c843a5ff04274332ed46f962693e1f3fc358683ff555b100a084ff3918da2d9"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-002",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-002",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以阜通东大街1号的北京望京SOHO为中心、直线半径1公里的圆形范围内，瑞幸咖啡15家、星巴克10家、库迪咖啡7家。按关键词原始记录的POI ID计数，不做品牌归属剔除或合并；范围不是AOI边界。该数量仅反映冻结快照时点。",
+      "value_hash": "7fdd2480e169075efefe42b2a8298ba3192a5720b175ca4f882ecffddba48dac"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-003",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-003",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "北京同仁堂大栅栏总店周边500米内，医院0家、诊所2家。",
+      "value_hash": "4ae4a2279828b3dd4e39dae3e39da9817078ad0610eba9d885008f33ec240fcf"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-004",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-004",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "在杭州湖滨银泰in77周边800米范围内，门店最多的品牌是霸王茶姬。按关键词检索到的POI记录并经实体去重复核后，霸王茶姬共有3家门店（东坡路店、上城工联CC店、湖滨in77C3区店，其中“CHAGEE霸王茶姬”与“霸王茶姬”为同一品牌的不同书写形式），喜茶有2家（湖滨in77B区店、in77E区店），奈雪的茶为0家，三家品牌门店数之比为3:2:0，故霸王茶姬居首。去重复核显示这5条记录的poi_id互不相同，同品牌门店两两相距约250米以上且位于不同商业载体（沿街门牌、工联CC商场、in77不同分区），无需合并。需要说明的是，霸王茶姬仅比喜茶多1家，结论对去重较敏感：若后续人工复核认定霸王茶姬的三家门店中存在同店重复登记，则两家将并列最多，建议复核时优先抽查这三家门店。",
+      "value_hash": "066e11a7b7dca17add3c7dd5ba26d5ddfe7c758d0340fefffb054cb2cf1bd871"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-RD-001",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-RD-001",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "广州天河城离体育西路地铁站更近。根据两地点坐标按 haversine 大圆公式（地球半径取 6371008.8 米）计算的直线距离，广州天河城距体育西路地铁站约 173.2 米（区间约 156 至 191 米），广州太古汇距体育西路地铁站约 1173.4 米（区间约 1056 至 1291 米）。因此广州天河城明显更近，比广州太古汇近约 1000 米。",
+      "value_hash": "00fb4ea210aff5f90d612d2d61e4317f6c4afcabc606df9a19a0c1575c8c94fd"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-RD-002",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-RD-002",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "从北京望京SOHO开车到国贸商城的驾车里程约为14.9公里（14925米），考虑到实时路况和路线差异，可接受的里程范围大约在13.4公里至16.4公里之间。题目未询问驾驶时长，因此不提供时长信息。",
+      "value_hash": "c817702f3fc43065708e3973fa040b37ba12d3fc873ec01b11e8c3c059b990c4"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-RD-003",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-RD-003",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "从北京三里屯太古里步行到团结湖地铁站，预计步行距离约665米，可接受范围为598米至732米。题面虽同时询问了预计时间，但按2026年8月13日裁决，步行时长系步速模型估算结果，仅用于与距离的自洽性复核，不计入真值判分，因此发布真值中不包含时间项；采集时记录的参考时长约532秒（约9分钟），仅供人工参考，不作为判分依据。",
+      "value_hash": "c309f2ba17d8895e002b1cd0bd86fc1325d0f23f8c826e4d2b001554f963543e"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-RD-004",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-RD-004",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "从南京德基广场开车到南京南站，全程约12.4公里（12361米），考虑路线差异，里程大致在11.1公里至13.6公里之间。",
+      "value_hash": "23768ea94a59c72d6b8a9780cb17c50388b01ef7b35fdb8ec29d7776b4c6b220"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-RD-005",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-RD-005",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "从北京南站出发，按“北京SKP → 三里屯太古里 → 北京朝阳大悦城（朝阳大悦城）”的顺序，三段分别为14.442公里、5.189公里和7.951公里，总计27.582公里（约27.6公里；里程区间约24.824–30.340公里）。重新安排顺序不会更短，最短总里程仍是27.582公里（约24.824–30.340公里），建议仍按这个顺序跑：北京南站 → 北京SKP → 三里屯太古里 → 北京朝阳大悦城。",
+      "value_hash": "a17ac200358b55e8845ae54b193470e82440677cdfd2fea0ae3a72dfc43c7704"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-005",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-005",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "三座万象城已逐一确认，均非同名分馆或其他商场：深圳万象城位于罗湖区，详细地址为桂园街道人民桥社区宝安南路1881号；杭州万象城位于上城区，详细地址为富春路701号（江锦路地铁站B3口旁）；成都万象城位于成华区，详细地址为双庆路8号。按“1公里内先取直线距离最近2站、再对这2站比较实际步行距离”的规则，结果如下：深圳万象城1公里内共有6座地铁站，直线最近两站依次为大剧院（地铁站），约410米（区间369至452米），以及鹿丹村（地铁站），约445米（区间400至489米），步行比较后最近的是鹿丹村（地铁站），步行约553米（区间498至608米），与直线最近的大剧院站不是同一站；杭州万象城1公里内共有4座地铁站，直线最近两站依次为江锦路（地铁站），约225米（区间203至248米），以及钱江路（地铁站），约512米（区间461至563米），步行最近的是江锦路（地铁站），步行约358米（区间322至394米），与直线最近站是同一站；成都万象城1公里内共有3座地铁站，直线最近两站依次为双桥路（地铁站），约263米（区间237至289米），以及万年场（地铁站），约597米（区间537至657米），步行最近的是双桥路（地铁站），步行约336米（区间302至370米），与直线最近站是同一站。三家商场的直线第2名和步行最近均未出现并列，无需额外保留对象。三家商场均以主体中心点为圆心，按直线半径1公里的圆形范围划定，不使用AOI边界。",
+      "value_hash": "55236fb20ff6b8f40426d0c7c5a501a642186320a972bd927a880e933162fdab"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-006",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-006",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京同仁堂大栅栏总店、金象大药房八里庄店、叮当智慧药房（北京市灯市口店）分别为圆心，直线半径500米内的接口原始记录统计如下，不合并同名站牌等重复记录。\n\n| 门店 | 医院 | 诊所 | 药店 | 公交站 | 地铁站 | 医院+诊所 | (医院+诊所)/药店 |\n|---|---|---|---|---|---|---|---|\n| 同仁堂大栅栏总店 | 3 | 3 | 9 | 8 | 1 | 6 | 0.67 |\n| 金象大药房八里庄店 | 6 | 4 | 3 | 7 | 0 | 10 | 3.33 |\n| 叮当智慧药房灯市口店 | 6 | 3 | 10 | 6 | 2 | 9 | 0.90 |\n\n医院包括综合医院和专科医院；诊所编码090300，药店包括090600和090601，公交站包括150700至150706，地铁站为150500，不含出入口。三店药店数均非0，比值没有并列；金象大药房八里庄店最高。\n\n金象店直线1公里内的地铁候选为石佛营站和十里堡站，实际步行距离分别为824米和1356米，步行最近的是石佛营站。500米设施统计范围与地铁步行路线的距离口径不同。",
+      "value_hash": "11445779a6018b0278bc786b04927822fd5c07aca3c077b7c8447c45790c2e5f"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-RD-006",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-RD-006",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "望京SOHO周边500米有0个地铁站、1公里有22个公交站；陆家嘴中心分别为2个和40个；深圳平安金融中心分别为1个和39个。只有陆家嘴中心满足入围条件，其驾车到上海浦东机场1号航站楼约39.7公里，约42分29秒。",
+      "value_hash": "f3d7e0b66a5c696a542cc31bb91cbb15ebf705de4d5872f2181bbc1d1e9458e2"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-007",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-007",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以深圳平安金融中心（益田路5033号）为中心，直线1公里内的银行类原始记录为73条。剔除5条非银行金融机构记录和1条无法确认为营业网点的泛称记录，再合并3条同机构部门或同址重复记录，冻结参考总数为64家银行网点。\n\n| 距离顺序 | 银行网点 | 直线距离 |\n|---|---|---|\n| 1 | 南塔银行 | 112米 |\n| 2 | 中国银行（福华支行） | 133米 |\n| 3 | 渣打银行（深圳卓越支行） | 143米 |\n| 4 | 中国工商银行（深圳卓越时代广场支行） | 167米 |\n| 5 | 星展银行（福田支行） | 174米 |\n\n前5名无距离并列，第6名参考距离为194米。距离采用球面大圆距离，不是步行距离。“南塔银行”为快照中银行分类下的网点名称，按原有记录保留；网点识别与分类受该快照的数据质量限制。",
+      "value_hash": "1a75936cb82b03d99a9abfad23a1602fc1b3c762de6a02cc9fb618eefa3b1175"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-008",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-008",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "条件式真值：药店原始记录3条、人工主体合并2家；诊所4家；医院宽类6家，若严格限定综合医院则1家。发布前必须在题目合同中固定医院分类和主体合并规则。",
+      "value_hash": "5697cdf6e8cdf45e411cce0164791424ca8ce888118d276eb228450c3c1d4f0d"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-009",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-009",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京中关村广场和望京SOHO分别为中心、直线半径1公里，按咖啡店类目050500原始记录的POI ID计数，中关村广场88家、望京SOHO70家。中关村广场多18家。两地均采用圆形范围，而非实际AOI边界。",
+      "value_hash": "0aeef0992affe9f3762e7374d71280ff6b37a3543078590e44ade59308798bdf"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-RD-007",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-RD-007",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "从杭州湖滨银泰 in77 步行到龙翔桥地铁站更近。到龙翔桥约147米，到凤起路约1235米，龙翔桥约近1.1公里。",
+      "value_hash": "6355f38c79fa31036225d3fb3a5c87abb469799a46cc7299f5c05ed324603a42"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-RD-008",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-RD-008",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京金融街购物中心、北京国贸商城和北京中关村广场为起点，驾车前往北京首都国际机场2号航站楼的距离分别约为：北京金融街购物中心31625米（约31.6公里），北京国贸商城25024米（约25.0公里），北京中关村广场32019米（约32.0公里）。三者中驾车距离最短的是北京国贸商城，约25.0公里；排序由北京近到远依次为北京国贸商城、北京金融街购物中心、北京中关村广场。",
+      "value_hash": "c487ecb10d4ce0de5dfd8a00c310d17eeb65e8330718ca8f7718af9eb4d7dc36"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-010",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-010",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "广州天河城周边500米内有4个地铁站，1公里内有10个。",
+      "value_hash": "ca556e9256da7c33747a393c25f45e654b199c5443ee45df5c3deba2f90f15a8"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-011",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-011",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "南京德基广场周边1公里内，奈雪的茶有3家，喜茶有5家，霸王茶姬有5家。口径为以德基广场为中心的1公里圆形围栏回退范围，关键词原始记录零剔除，未做品牌归属剔除或合并。",
+      "value_hash": "12f6015e4550ee01daa2b0d782a992fb61d396d920ff5f0bc2467e6c3b00a92c"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-RD-009",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-RD-009",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "最近的是北京SKP，驾车到北京南站约16.2公里；相比之下，三里屯太古里约18.0公里，北京朝阳大悦城约21.7公里。",
+      "value_hash": "5ad3e91b0de70281267a77719775f511ad64be1938672a7ec1d572abd5bef434"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-012",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-012",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以成都宽窄巷子景区为中心、直线半径500米，冻结参考数量为餐饮店484家、茶馆50家。\n\n餐饮采用餐饮服务大类050000~050900，共65个分类编码；茶馆采用茶艺馆050600。餐饮原始记录496条，按唯一POI/主体去重后为484家；茶馆50条记录未发现同名重复。茶馆属于餐饮大类，已包含在餐饮主报告数量中，不能将484和50相加作为总数。同一地点可以出现在两个分类内，各分类内部不重复计数。原快照中1处“香煎毛豆腐”有2条记录，未确认是否为同一实体，按原口径保留为2条。",
+      "value_hash": "5a831d99a8598151d888ecda59ddfaf123fa2d826cfd261194b6b1e5d52093c3"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-013",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-013",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以光谷广场地铁站（[坐标已省略]）为中心、直线1公里，分类编码固定为高等院校141201和商务写字楼120201。原始记录为大学40条、写字楼60条。按固定主体规则复核后，大学共5所：华中科技大学、武汉工程大学、湖北开放职业学院、湖北开放大学（含湖北广播电视大学、湖北科技职业学院同一办学主体）和长江职业学院（含湖北经济管理大学历史名称）；“武汉华中科技大学光谷步行街店”为商业误标，不计入大学。写字楼按同一父级写字楼/综合体合并其栋、座、区、楼层和大厅记录后共39处。",
+      "value_hash": "0309fa233b7cd4ef5e59b8c658ce3ba44d6889437020cc1347ce5a54a83f7612"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-014",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-014",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以解放碑步行街为中心、直线1公里，地铁站主体共4座：较场口、临江门、小什字、凯旋路；地铁出入口不计。公交返回44条名称各异的站牌记录。仅合并可由名称直接证明为标点、括号或异体字差异的同站记录后，共39个公交站；不把“主站名”和“主站名+地标”在缺少坐标/线路证据时强行合并。",
+      "value_hash": "4fd457d474f01f4fe1e6d52f01716d7f7e97a39d006e9af97d9e73f76fad04e7"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-015",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-015",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "按距离由近到远共3家：上海锦江汤臣洲际大酒店（约564米）、上海金陵紫金山大酒店（约795米，重复记录合并为1家）、上海柏悦酒店（约897米）。",
+      "value_hash": "7a6632a35df9fb94454cddede411aee4f1680bff3dad771cfae9f5144b711960"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-NS-016",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-NS-016",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "广州北京路步行街周边800米内，喜茶有5家，奈雪的茶有1家，霸王茶姬有1家。其中5家喜茶分别为：惠福东店（惠福东路610号，距中心约109米）、恒润广场店（北京路一街238号F1，约302米）、东方文德店（文德北路68号东方文德广场，约504米）、同庆坊店（北京路15号同庆坊D栋，约517米）、城壹汇店（中山四路395号城壹汇，约533米）；奈雪的茶为天河城B区店（北京路21号天河城B区L1层，约391米）；霸王茶姬为广百广场店（约231米）。上述结果经实体级去重核对，7条观测两两比对未发现可合并的重复实体，5家喜茶的poi_id、分店名、地址、坐标均互斥，两两坐标间距均大于150米，奈雪的茶与霸王茶姬各仅1条观测，故各品牌计数与原始观测一致。另有两处需人工复核：其一，霸王茶姬广百广场店的地址文本（新华街龙珠路41号，疑似花都区）与其坐标（位于北京路商圈内）存在矛盾，本答案按坐标落在范围内计为1家，若人工核实该店实际不在目标区域，则霸王茶姬应改为0家；其二，喜茶同庆坊店位于北京路南段、偏离主集群约500米，因其名称与地址均含\"北京路\"故按匹配保留，若题目范围仅限北京路步行街核心区，该店归属需复核。",
+      "value_hash": "f822dbb9266f31888693532b5b06d27d9adf1b943485c29058862c388387e9b1"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-001",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-001",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京同仁堂大栅栏总店（大栅栏街24号）为中心、直线半径500米，商业类POI原始记录11条，按独立主体合并后为10个商业区或商业设施：前门食品商场、大栅栏第一百货商场、北京坊、1796商场、北京大栅栏、鲜鱼口老字号美食街、吉龙商城(大栅栏西街商业店)、观音寺街(大栅栏西街商业店)、前门步行街、北京坊2期。\n\n北京坊与北京坊西区W7号楼合并为1个主体；北京坊2期按独立开发区域单独计数。冻结分类分项为商场1个、普通商场3个、特色商业街4个、步行街2个。",
+      "value_hash": "1947e114a7c3254268a4f4824a8627835026300bf5730cee6cd2109e5173a28d"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-002",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-002",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "条件式参考：当前广义分类下购物主体约403家（原始409条）；餐饮主体约464–484家（原始476–496条）。",
+      "value_hash": "e9937f45514383a45ab5d9f7844270faca18ea5c6e4b5f9a0814499c5ab1e692"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-003",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-003",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "可恢复的只有冻结原始记录口径：2公里内120302记录224条、120201记录118条。独立住宅小区数和物理写字楼栋数证据不足，不能把224/118直接写成实体真值。",
+      "value_hash": "8bbda98b7d32dcb677f4832ce22d7b9be6a0afc09d214726cfc09ac70846857b"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-004",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-004",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以上海静安寺地铁站主体为中心、直线半径500米，商场类原始记录12条，按独立主体合并并排除非独立商业体后，共7个商场或购物中心：静安嘉里中心、久光百货、芮欧百货、1788广场、CP静安、88铜仁路（上海X88）、浙江世纪商贸城。\n\n分类范围为060100商场、060101购物中心、060102普通商场、060103免税品店。静安嘉里中心及其南、北、东区和内部店铺共5条记录合并为1处；“欧姆龙专柜(静安高和大厦店)”为品牌专柜，不作为独立商业体计数。",
+      "value_hash": "d288530829e8dddc075afd4b05507b57a8162ea5116a7e569adac754afdb0236"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-005",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-005",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以天河路208号天河城（[坐标已省略]）为中心、直线1公里，使用住宅小区120302和商务写字楼120201的稳定分类记录口径，住宅小区为137条、商务写字楼为235条。若改用父级主体去重，当前已复核证据仅支持候选值住宅119个、写字楼152个，尚不能作为唯一硬真值。",
+      "value_hash": "26f16786855a85f0761a71f11167b30a01a90e660e9e8f5830dd4a6a550c7fe8"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-006",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-006",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京朝阳大悦城（朝阳北路101号）为中心、直线半径500米，商场、购物中心和特色商业街原始记录8条，按独立主体合并后共3个商业区：朝阳大悦城、佳亿·青年汇、星河湾商业街。\n\n朝阳大悦城本体、南门和场内门店合并为1个主体；佳亿·青年汇及南北厅合并为1个主体。1条被归入商场类别的单个零售门店或影城记录不计为独立商业区。",
+      "value_hash": "c32b8454a231a19489e96774f90439a533cc72a1e17b4df28846e5f9715b3cd1"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-007",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-007",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京望京SOHO（[坐标已省略]）为中心、直线1公里，原始分类记录为住宅小区37条、商务写字楼141条、商场或购物中心8条。按固定父级实体规则合并后，住宅小区23个、商务写字楼45个、商场或购物中心7个。",
+      "value_hash": "b8cf250d127da7bcd06e7d058b14fda45404279a608dacf04af2e9997b1b18e7"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-008",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-008",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "当前广义分类口径：餐饮约964家（原始978条）、购物约876家（原始890条）、生活服务约853家（原始859条），餐饮最多。数量发布应绑定本次数据快照。",
+      "value_hash": "b971a8cc87c8b9d59560f28da03687f151f03a3318ad57ba1e3d8186f4bf1021"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-009",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-009",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "按冻结120302/120201原始记录口径：住宅230条、写字楼153条，数量比230:153，约1.5033:1。独立实体数量比仍不可确认。",
+      "value_hash": "ab6225e21060cc6b535f345ec8ac20fe5034bb83b306fd2df76ebb50e4a49e43"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-010",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-010",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京SKP（建国路87号）为中心、直线半径1公里，按唯一主体去重后的冻结参考数量为购物1019家、餐饮756家。购物比餐饮多263家，计算为1019-756=263。\n\n统计采用餐饮服务和购物服务完整分类范围，反映该快照收录的POI主体数量，不等于现场完整店铺清单。这是1公里半径范围内的数量，不是每平方公里的密度。",
+      "value_hash": "a05485e704a8b1baca6cb86d52faf7f2bf9490e77006594f7da90da45a640fd1"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-011",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-011",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以广州太古汇（天河路383号）为中心、直线半径1公里，按各业态内部唯一主体去重后的冻结参考结果如下。\n\n| 业态 | 数量 | 冻结参考占比 |\n|---|---|---|\n| 餐饮服务 | 2126 | 30.37% |\n| 购物服务 | 2903 | 41.47% |\n| 生活服务 | 1971 | 28.15% |\n\n共同分母为三类数量之和：2126+2903+1971=7000。购物数量最多、占比最高。各类内部去重，但同一主体可以同时属于不同业态，因此7000不是跨三类去重后的主体总数。占比保留原冻结快照的记录精度。",
+      "value_hash": "8e530b8324349195b3364bb302945fb900ae20fc1c247ea9aafcc1fd6a268329"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-012",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-012",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "条件式参考：原始记录约55/168/7/1；主体合并约44–46/88–90/4/1。",
+      "value_hash": "d543461e9d0bec140e4573c8654d91b172837de14ea5635157c6663ada9953de"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-013",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-013",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "第一阶段按题面中位数规则，北京同仁堂大栅栏总店和叮当智慧药房灯市口店入围，金象大药房八里庄店淘汰。题面没有规定交通便利与竞争强度之间的优先级，因此不能冻结唯一推荐：推荐同仁堂或叮当均可，但必须使用第二阶段公交、地铁或竞争药店数据说明取舍，并指出相应风险。具体计数受住宅、写字楼和竞争药店分类口径影响，仅作为答案完整性与内部一致性的质量项，不作为通过门槛。",
+      "value_hash": "e2b9e8b649bdc67e8271b9b7970c190ccf02fe901d116e56b2c3840068d0e6a0"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-014",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-014",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v2",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以成都太古里和成都万象城为中心、各取直线1公里，按统一全类目编码并按poi_id去重。太古里住宅434、写字楼199、餐饮2377、购物3524；万象城住宅161、写字楼20、餐饮1187、购物1853。太古里分别多273、179、1190和1671个。",
+      "value_hash": "af7baab3c86afbefe5cc16ba9ba7947cc72499b982212c625109a72fff10eed9"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-015",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-015",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "条件式参考：当前宽类主体口径约十里河住宅231、购物2958；北四环住宅217、购物944。发布前需决定是否使用窄类住宅小区/商场口径。",
+      "value_hash": "27859951b93751ae49c51d28f4507c1d92c927f7ca78b1581fb1d85ca51f1136"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-016",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-016",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以广州天河城、杭州湖滨银泰in77、深圳万象天地分别为中心、直线半径1000米的圆形范围内，餐饮类POI数量分别为2167、1718、813。按数量降序为广州天河城、杭州湖滨银泰in77、深圳万象天地。广州与杭州差449，广州与深圳差1354，杭州与深圳差905。范围采用圆形口径，不代表实际商圈AOI边界。",
+      "value_hash": "07d42145ed7c19c7914de91e290a651739b3111001496ac9ec8243a5d6c93959"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-017",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-017",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京望京SOHO（阜通东大街1号）为中心，按餐饮服务全部中类统计并按POI ID去重。直线半径1公里内餐饮数量为982家，2公里内为2176家。\n\n1至2公里外围环带新增数量为2176-982=1194家；新增量占2公里总量的比例为1194/2176，约54.87%。分母2176非0，可计算。这里比较的是不同面积范围内的数量，不能仅由外围新增数量推断外围单位面积密度更高，也不能据此推断人群客流。",
+      "value_hash": "15dab8237747f9d6cb85c6bb35d21f89e6b82acc241214c5351fb911ef97c74d"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-018",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-018",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "三里屯太古里1公里范围内的购物业态总量高于望京SOHO，因此三里屯太古里区域更丰富。当前广义分类参考量约876家对469家。",
+      "value_hash": "8c8770c56f9c935a85db659740ea473566a563ebe902e13c2cbb90fdfc1e08b3"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-019",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-019",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "同仁堂大栅栏总店周边300米内有5个商业区、2个公交站、0个地铁站；1公里内有11个商业区、16个公交站、2个地铁站。",
+      "value_hash": "cf4f30fe6fe01f7f8b5204b3d5f6f646870a65872b4eb0a6508e9a9f926ebfdf"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-020",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-020",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "条件式参考：公交站21、地铁站2；住宅和写字楼需基于明细复核后发布。",
+      "value_hash": "f88c02e9468046c50ce345c3d6144f8ab9e7a9833c44f09f4450138ce43f567f"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-021",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-021",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "在上海南京路步行街周边1公里范围内，购物业态的占比最高。按POI数量统计：购物类约2150个，占比约48.38%；餐饮类约1578个，占比约35.51%；生活服务类约716个，占比约16.11%。三类业态的占比排序为：购物 > 餐饮 > 生活服务，因此占比最高的是购物类。",
+      "value_hash": "bc67fa37c2cef4b88aad1495a883bed719d1eace99d3bb9f7d0429ed9b046405"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-BA-022",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-BA-022",
+      "source": {
+        "review_confidence": "低",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "条件式参考：全部购物服务约382–387，严格商场/购物中心5，住宅小区17，餐饮约245–278。",
+      "value_hash": "58e4ddc64fe3263fe838eb4c506a0320e92d7eaff95f8a65e1c5d18d4ca4ec97"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-001",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-001",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京望京SOHO（中心点坐标[坐标已省略]）为起点生成的步行10分钟可达边界共包含453个顶点。从望京SOHO中心点到该边界四个正方向的最大直线距离分别为：正东方向约467.1米，正西方向约413.8米，正南方向约531.8米，正北方向约345.7米。该步行可达范围的面积约为0.726平方千米，其中正南方向延伸最远，正北方向延伸最近。",
+      "value_hash": "0e1ee84493e9bb30c18e1ffbad64d56e7042b3e5d2c0419420e2b90307db3b77"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-002",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-002",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京望京SOHO（坐标[坐标已省略]）为中心、半径1公里的圆形范围，按100米网格划分且仅计入网格中心落入该范围的网格后，有效网格总数为313个；其中有餐饮地点覆盖的网格数为134个，餐饮地点数为0的空白网格数为179个，单个网格内餐饮地点数的最高值为57个。校验结果：覆盖网格数134加空白网格数179等于313，与有效网格总数一致，校验通过。",
+      "value_hash": "dff0dac80a3784eae255b3a68a3fe15483628369fa06dd1aca1236a7a96c2987"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-003",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-003",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "在以北京三里屯太古里（中心坐标[坐标已省略]）为圆心、半径1公里的范围内，按100米网格统计购物场所数量，单个网格中购物场所最多为68个。",
+      "value_hash": "ca509ef0f93e15c281a00d2955ae7d4bf7e3b1d9a05048f4653bc12a122bb478"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-004",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-004",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "在杭州湖滨银泰 in77（[坐标已省略]）周边2公里范围内，按500米网格统计茶饮店（高德分类050700冷饮店），共有38个网格内含有茶饮门店，茶饮门店总记录数为248条。",
+      "value_hash": "a14d7ed8438dc1dc2d4ec3dcd2f28bd58c5aae648afb5ff7558e698592c453eb"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-005",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-005",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "实际匹配到北京1路的两个方向：1路（老山公交场站至四惠枢纽站）和1路（四惠枢纽站至老山公交场站）。合并两个方向500米缓冲区结果后，按POI ID去重为150条；其中“光辉桥南”存在两个不同POI ID，继续按站名去重后共149个公交站。",
+      "value_hash": "e1923d741fb7143c06b4bc41cf2e441089e746ed6a454b15d195bf51bdfbe3cc"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-006",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-006",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "步行10分钟等时圈面积约0.726341平方公里，20分钟约3.302741平方公里，扩大约4.547097倍。",
+      "value_hash": "0e181733799cd8bbd8c4398a9aaf7e6e3b046403c8a2d2b3927f0ee2d0cf3ee6"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-007",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-007",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京朝阳大悦城（[坐标已省略]）为中心，固定1公里圆形范围内有餐饮场所614条记录，按名称去重约607家；步行15分钟等时圈内有442条记录，按名称去重438家。圆形范围比等时圈多172条记录，按名称去重多169家。圆面积约3.14平方公里，等时圈面积约1.38平方公里，等时圈完全位于1公里圆内。",
+      "value_hash": "69306ddc49771973762fcaf66ad3aecdf4563d5e417a19108319096f68891c83"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-008",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-008",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京望京SOHO（坐标[坐标已省略]）为中心、半径1公里范围按100米网格划分，共161个有效网格。有餐饮场所的网格数为136个（占84.5%），有购物场所的网格数为121个（占75.2%），同时有两类场所的重叠网格数为96个。餐饮覆盖网格数多于购物。",
+      "value_hash": "42db4fd72022cfbfecbfeb728b5a18f348b982ba320e57609d4f54fe8fe7fbeb"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-009",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-009",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京望京SOHO（阜通东大街1号）为中心、直线半径1.5公里，按100米网格统计冻结快照中的品牌门店分布。\n\n| 品牌 | 门店总数 | 有门店的网格数 | 单网格最大门店数 |\n|---|---|---|---|\n| 瑞幸咖啡 | 28 | 26 | 2 |\n| 星巴克 | 19 | 17 | 2 |\n\n星巴克按快照口径合并星巴克咖啡、沿街取餐点、咖啡服务及臻选咖啡·酒坊的关联品牌记录；瑞幸使用单一品牌口径。结果只描述该时点的POI分布，不推断品牌经营策略或人群行为。",
+      "value_hash": "2b301d465625d80a9b87748f81571c73a6e17ecd729ce68ff52a947a8a9f83e6"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-010",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-010",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "在杭州湖滨银泰 in77 周边 2 公里范围内，按 500 米网格统计各品牌覆盖网格数（该品牌有门店的网格数）：霸王茶姬覆盖 9 个网格，喜茶覆盖 5 个网格，奈雪的茶覆盖 1 个网格。",
+      "value_hash": "1991fc7defa5959bb5481d3bb6c3ffcde257a4da77300d6e995f8fbeee13ffb7"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-011",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-011",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以上海陆家嘴中心（坐标[坐标已省略]）为圆心、半径1公里的圆形范围，按100米×100米网格划分后共有86个有效网格。咖啡店覆盖了68个网格（约占有效网格的79%），其中最密集的单网格内有5家咖啡店；银行覆盖了37个网格（约占有效网格的43%），其最密集的单网格内有9家银行（位于上海环球金融中心一带，网格中心坐标约[坐标已省略]）。",
+      "value_hash": "a8a993ec4e0dec5aaa736769d6b4ff217d8636a27462095a7718d14464edea81"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-012",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-012",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "在以两地中心各1.5公里为半径、按100米网格统计餐饮场所数量的比较中（高密网格定义为单网格餐饮不少于5家），广州太古汇的高密网格更多，共261个；广州天河城为239个。两者单网格餐饮数量峰值均为74家，因此按高密网格数量判定，胜出的地点是广州太古汇。",
+      "value_hash": "687bb295e4c19c1230052433bc80826466d370f1e52e5197bbca28aea8601e3f"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-013",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-013",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京红星美凯龙北四环商场（坐标[坐标已省略]）为中心、周边3公里范围，按500米网格统计，共107个有效网格。家居建材（分类编码0606）覆盖47个网格，餐饮（分类编码05）覆盖103个网格，两类覆盖网格的重合数（交集）为43格。仅家居建材无餐饮的网格4个，仅餐饮无家居建材的网格60个。餐饮为主导覆盖类（96.3%覆盖率），家居建材为次要覆盖类（43.9%覆盖率），但家居建材网格中91.5%（43/47）有餐饮配套。",
+      "value_hash": "9d58aae3c36c0afeaebcf1dd494343383af911849eb1c36ef0970a2b4914e490"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-014",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-014",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "在南京德基广场周边2公里、100米网格口径下，奈雪的茶、喜茶和霸王茶姬的最大单格门店数均为1。奈雪的茶有6个并列最密网格，喜茶有7个，霸王茶姬有12个。本公开版本不提供这些网格的坐标，也不评估网格位置或位置列表的完整性。",
+      "value_hash": "c4d24746bda400f2ab69b9add33461696cd500660cbaaba33fc4b5fc28473141"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-015",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-015",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "将杭州7路（城站火车站(地铁A1口)—灵隐公交总站，双向）和31路（地铁吴山广场站C口—火车东站西，双向）分别向两侧各缓冲500米后，在各自缓冲范围内按品牌统计去重门店数（跨环按 poi_id 去重，落入两条线路重合范围的门店在每条线路内部只计一次，即可同时计入两条线路）。统计结果如下（线路×品牌对比表）：\n\n| 线路 | 缓冲范围面积 | 霸王茶姬 | 奈雪的茶 |\n|------|------------|----------|----------|\n| 7路（城站火车站(地铁A1口)↔灵隐公交总站） | 约10.68 平方公里 | 8 家 | 1 家 |\n| 31路（地铁吴山广场站C口↔火车东站西） | 约12.44 平方公里 | 13 家 | 2 家 |\n\n结论：31路缓冲范围内的两个品牌门店数均多于7路（霸王茶姬13家对8家，奈雪的茶2家对1家）；同一线路内对比，霸王茶姬门店数均明显多于奈雪的茶。数据采用线路缓冲多边形内的品牌统计快照，保留既有的线路内去重和跨线路分别计数口径。",
+      "value_hash": "96f1aee6fcbb7817a666ab11cac83d34d21554cfcd6cf16708987eeb17ccfe9d"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-016",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-016",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京国贸商城和上海陆家嘴中心分别为中心、直线半径1.5公里，按500米网格统计商务写字楼POI记录（分类120201），高密定义为单格不少于10条。\n\n| 地点 | 高密网格数 | 最大单格记录数 |\n|---|---|---|\n| 北京国贸商城 | 15 | 41 |\n| 上海陆家嘴中心 | 12 | 30 |\n\n国贸商城高密网格比陆家嘴中心多3个。原快照将两地最大单格分别描述为大望路至西大望路一带、浦东南路沿线；不提供坐标。同一楼宇可能对应多条POI记录，不能直接解释为去重后的物理楼宇栋数。",
+      "value_hash": "ef950010b33514176d115ae020bad6fba731cc98f1a6f8780fd12845261cb2c5"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-017",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-017",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "当前快照参考：中关村3处（销售1、维修2），望京4处（销售2、维修2），通州20处（销售16、维修4）；最大500米网格分别1、1、5处。",
+      "value_hash": "0c4a90a89b4c2f96d912aa80cda7a44555acd7eb9f11afb7b9f123b0a96afb86"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-018",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-018",
+      "source": {
+        "review_confidence": "高",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "以北京朝阳大悦城为中心，采用100米网格和直线圆形范围统计瑞幸咖啡覆盖：1公里圈内有门店的网格4个，2公里圈内17个。沿用同一网格划分时，外层1至2公里环带新增覆盖网格数为17-4=13个。范围是以主体点为中心的圆形近似，不等于实际商圈AOI边界。",
+      "value_hash": "842b6f8721bcf676d75831edca9ce09d3be3c2c3b190d075658b459a82c3639c"
+    },
+    {
+      "captured_at": "2026-09-02T05:36:00Z",
+      "case_id": "RMB-SA-019",
+      "mode": "static",
+      "snapshot_id": "truth-realmapbench-v1-public-72-r2/RMB-SA-019",
+      "source": {
+        "review_confidence": "中",
+        "review_version": "realmapbench_truth_review.v1",
+        "type": "reviewed_static_snapshot"
+      },
+      "status": "ok",
+      "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+      "value": "条件一（步行15分钟内地铁站≥2个）：中关村广场2个（中关村站、海淀黄庄站）✅；望京SOHO 1个（望京东站）❌；通州万达广场2个（通州北苑站、永顺站）✅；五道口地铁站2个（本站、清华东路西口站）✅。条件二（2公里内电动车高密网格≥5个）：中关村广场0个❌；望京SOHO 0个❌；通州万达广场5个✅；五道口地铁站0个❌。条件三（2公里内餐饮覆盖网格≥20个）：中关村广场56个✅；望京SOHO 53个✅；通州万达广场48个✅；五道口地铁站56个✅。最终结论：仅北京通州万达广场同时满足三个条件。",
+      "value_hash": "b30ea55f840e82698f66b895718441c8687c48896e8897c530d45cf93fc21a53"
+    }
+  ],
+  "truth_revision": "realmapbench_truth_review.v2-public-72-r2",
+  "truth_snapshot_id": "truth-realmapbench-v1-public-72-r2"
+}

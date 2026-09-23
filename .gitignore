@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+original_traces/
+trace/
+traces/
+results/
+.idea/
+.DS_Store
+.env
+.env.local

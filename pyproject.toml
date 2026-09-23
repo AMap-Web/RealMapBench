@@ -1,0 +1,17 @@
+[project]
+name = "realmapbench"
+version = "1.0.0"
+description = "A benchmark for tool-augmented agents on real-world map service tasks."
+requires-python = ">=3.10"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.uv]
+package = false
